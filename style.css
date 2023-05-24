@@ -36,6 +36,7 @@
      font-size: 40px; 
  } 
  .cards{ 
+     border-radius: 5px;
      display: flex; 
     justify-content: space-between;  
     margin-left: 5%; 
@@ -60,9 +61,7 @@
      text-align: center; 
  } 
   
-    .stack-stickers-card , 
-        .play-plus-card ,  
-         .books-card { 
+        .play-plus-card { 
        display: grid; 
        place-items: center; 
  } 
