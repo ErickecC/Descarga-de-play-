@@ -47,9 +47,8 @@ margin-top: 10px;
   margin-bottom: 10px;
   height: 40px;
   width: 200px;
-  background: green;
   border-radius: 5px;
-  border: 0px;
+  border: 1px solid black;
 }
    iframe{
        border: 0px;
@@ -67,7 +66,6 @@ margin-top: 10px;
     align-items: center;    
 }
 .formatodeapp > button{
-    color: white;
     display: flex;
     justify-content: center;
     align-items: center;
