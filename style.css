@@ -14,6 +14,9 @@
      color: #6c6c6c;
      margin-bottom: 2px;
  }
+a{
+    text-decoration: none;
+}
  .body-uno{ 
      background: black; 
      display: flex;
